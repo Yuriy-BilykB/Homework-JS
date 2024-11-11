@@ -88,16 +88,16 @@
 // console.log(findMinNumber(arrNumbers))
 
 // #EKRNVPM
-// const arrNumbers = [5,2,3,4,8,9,6];
-// function findMinNumber(arr) {
-//     let minNum = 0;
-//         for (const num of arr){
-//            minNum += num
-//         }
-//     return minNum
-// }
-//
-// console.log(findMinNumber(arrNumbers))
+const arrNumbers = [5,2,3,4,8,9,6];
+function calcAllSum(arr) {
+    let minNum = 0;
+        for (const num of arr){
+           minNum += num
+        }
+    return minNum
+}
+
+console.log(calcAllSum(arrNumbers))
 
 // #kpsbSQCt2Lf
 // function swap(arr,index1,index2) {
