@@ -36,10 +36,8 @@
 // console.log(clearStrSpaces(' dirty string   '));
 
 // #bfoJuse4ZzP
-// const strToArray = (str) => {
-//    return str.split(' ')
-// };
-// console.log(strToArray('Ревуть воли як ясла повні'));
+const strToArray = (str) => str.split(' ');
+console.log(strToArray('Ревуть воли як ясла повні'));
 
 // #Rbr5kEQ
 // const elToStr = (arr) => {
