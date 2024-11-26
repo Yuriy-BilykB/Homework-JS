@@ -1,0 +1,44 @@
+/*body {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    margin: 0;*/
+/*    padding: 20px;*/
+/*    background-color: #f0f0f0;*/
+/*    font-family: Arial, sans-serif;*/
+/*}*/
+
+/*!* Контейнер для користувачів *!*/
+/*.users-container {*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(2, 1fr); !* два блоки в рядок *!*/
+/*    gap: 20px; !* відстань між блоками *!*/
+/*    max-width: 1200px;*/
+/*    width: 100%;*/
+/*}*/
+
+/*!* Блок кожного користувача *!*/
+/*.user-block {*/
+/*    background-color: #fff;*/
+/*    padding: 20px;*/
+/*    border-radius: 8px;*/
+/*    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
+/*}*/
+
+/*.user-block h2 {*/
+/*    margin: 0;*/
+/*    font-size: 1.2em;*/
+/*    color: #333;*/
+/*}*/
+
+/*.user-block h3 {*/
+/*    margin: 0.5em 0;*/
+/*    font-size: 1em;*/
+/*    color: #666;*/
+/*}*/
+
+/*.address-block p {*/
+/*    margin: 0.3em 0;*/
+/*    font-size: 0.9em;*/
+/*    color: #555;*/
+/*}*/
